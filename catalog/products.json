@@ -1,0 +1,1662 @@
+{
+  "categories": [
+    {
+      "slug": "indoor-furniture",
+      "name": {
+        "en": "Indoor Furniture",
+        "ar": "الأثاث الداخلي"
+      },
+      "intro": {
+        "en": "Furniture for living and gathering spaces.",
+        "ar": "أثاث لمساحات المعيشة والتجمع."
+      },
+      "image": "category-indoor.webp",
+      "alt": {
+        "en": "Neutral-toned sofas in a bright living room",
+        "ar": "أرائك بألوان هادئة في غرفة معيشة مضيئة"
+      }
+    },
+    {
+      "slug": "outdoor-furniture",
+      "name": {
+        "en": "Outdoor Furniture",
+        "ar": "الأثاث الخارجي"
+      },
+      "intro": {
+        "en": "Furniture for terraces and open-air spaces.",
+        "ar": "أثاث للشرفات والمساحات المفتوحة."
+      },
+      "image": "category-outdoor.webp",
+      "alt": {
+        "en": "Outdoor lounge seating on a sunlit terrace",
+        "ar": "مقاعد جلوس خارجية على شرفة مشمسة"
+      }
+    },
+    {
+      "slug": "office-furniture",
+      "name": {
+        "en": "Office Furniture",
+        "ar": "أثاث المكاتب"
+      },
+      "intro": {
+        "en": "Furniture for practical working spaces.",
+        "ar": "أثاث لمساحات عمل عملية."
+      },
+      "image": "category-office.webp",
+      "alt": {
+        "en": "Contemporary work table and chair in an office",
+        "ar": "طاولة عمل وكرسي عصريان في مكتب"
+      }
+    },
+    {
+      "slug": "custom-furniture",
+      "name": {
+        "en": "Custom Furniture",
+        "ar": "أثاث حسب الطلب"
+      },
+      "intro": {
+        "en": "Discuss options shaped around your project.",
+        "ar": "ناقش خيارات تناسب متطلبات مشروعك."
+      },
+      "image": "category-custom.webp",
+      "alt": {
+        "en": "Contemporary furniture arranged in a designed interior",
+        "ar": "أثاث عصري ضمن مساحة داخلية مصممة"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": "SAMPLE-IND-001",
+      "slug": "indoor-lounge-seating",
+      "category": "indoor-furniture",
+      "name": {
+        "en": "Indoor Lounge Seating",
+        "ar": "جلسة داخلية"
+      },
+      "description": {
+        "en": "Comfortable seating for a calm living space.",
+        "ar": "جلسة مريحة لمساحة معيشة هادئة."
+      },
+      "image": "category-indoor.webp",
+      "alt": {
+        "en": "Neutral-toned sofas in a bright living room",
+        "ar": "أرائك بألوان هادئة في غرفة معيشة مضيئة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Upholstered fabric and timber frame",
+            "ar": "قماش منجد وهيكل خشبي"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "240 × 90 × 78 cm",
+            "ar": "٢٤٠ × ٩٠ × ٧٨ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Warm ivory",
+            "ar": "عاجي دافئ"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Upholstery colour",
+            "ar": "لون التنجيد"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 3200,
+      "demo_stock": 8,
+      "images": [
+        {
+          "file": "category-indoor.webp",
+          "alt": {
+            "en": "Neutral-toned sofas in a bright living room",
+            "ar": "أرائك بألوان هادئة في غرفة معيشة مضيئة"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-OUT-001",
+      "slug": "outdoor-lounge-seating",
+      "category": "outdoor-furniture",
+      "name": {
+        "en": "Outdoor Lounge Seating",
+        "ar": "جلسة خارجية"
+      },
+      "description": {
+        "en": "Lounge seating for terraces and open-air gathering.",
+        "ar": "جلسة للشرفات والتجمع في الهواء الطلق."
+      },
+      "image": "category-outdoor.webp",
+      "alt": {
+        "en": "Outdoor lounge seating on a sunlit terrace",
+        "ar": "مقاعد جلوس خارجية على شرفة مشمسة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Powder-coated aluminium and outdoor fabric",
+            "ar": "ألمنيوم مطلي وقماش خارجي"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "220 × 85 × 75 cm",
+            "ar": "٢٢٠ × ٨٥ × ٧٥ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Sand beige",
+            "ar": "بيج رملي"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Frame and cushion colours",
+            "ar": "ألوان الهيكل والوسائد"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 4100,
+      "demo_stock": 5,
+      "images": [
+        {
+          "file": "category-outdoor.webp",
+          "alt": {
+            "en": "Outdoor lounge seating on a sunlit terrace",
+            "ar": "مقاعد جلوس خارجية على شرفة مشمسة"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-OFF-001",
+      "slug": "office-work-table",
+      "category": "office-furniture",
+      "name": {
+        "en": "Office Work Table",
+        "ar": "طاولة عمل مكتبية"
+      },
+      "description": {
+        "en": "A generous work surface for focused office tasks.",
+        "ar": "سطح عمل واسع للمهام المكتبية."
+      },
+      "image": "category-office.webp",
+      "alt": {
+        "en": "Contemporary work table and chair in an office",
+        "ar": "طاولة عمل وكرسي عصريان في مكتب"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Engineered wood and metal",
+            "ar": "خشب مصنع ومعدن"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "180 × 80 × 75 cm",
+            "ar": "١٨٠ × ٨٠ × ٧٥ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Walnut and matte black",
+            "ar": "جوزي وأسود مطفي"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Worktop size and finish",
+            "ar": "مقاس سطح العمل وتشطيبه"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 1950,
+      "demo_stock": 8,
+      "images": [
+        {
+          "file": "category-office.webp",
+          "alt": {
+            "en": "Contemporary work table and chair in an office",
+            "ar": "طاولة عمل وكرسي عصريان في مكتب"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-CUS-001",
+      "slug": "custom-furniture-concept",
+      "category": "custom-furniture",
+      "name": {
+        "en": "Custom Furniture Concept",
+        "ar": "تصور لأثاث حسب الطلب"
+      },
+      "description": {
+        "en": "A starting point for furniture tailored to a project.",
+        "ar": "نقطة انطلاق لأثاث يناسب متطلبات المشروع."
+      },
+      "image": "category-custom.webp",
+      "alt": {
+        "en": "Contemporary furniture arranged in a designed interior",
+        "ar": "أثاث عصري ضمن مساحة داخلية مصممة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Upholstery and timber",
+            "ar": "تنجيد وخشب"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "Made to project dimensions",
+            "ar": "وفق أبعاد المشروع"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Client-selected palette",
+            "ar": "ألوان يختارها العميل"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Size, material and upholstery",
+            "ar": "المقاس والمادة والتنجيد"
+          }
+        }
+      ],
+      "price_aed_incl_vat": null,
+      "demo_stock": null,
+      "images": [
+        {
+          "file": "category-custom.webp",
+          "alt": {
+            "en": "Contemporary furniture arranged in a designed interior",
+            "ar": "أثاث عصري ضمن مساحة داخلية مصممة"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAMPLE-IND-002",
+      "slug": "sculptural-coffee-table",
+      "category": "indoor-furniture",
+      "name": {
+        "en": "Sculptural Coffee Table",
+        "ar": "طاولة قهوة بتصميم نحتي"
+      },
+      "description": {
+        "en": "A low statement table for an indoor lounge.",
+        "ar": "طاولة منخفضة بتصميم لافت لمساحة جلوس داخلية."
+      },
+      "image": "product-indoor-coffee-table.webp",
+      "alt": {
+        "en": "Low sculptural coffee table in front of a sofa",
+        "ar": "طاولة قهوة منخفضة بتصميم نحتي أمام أريكة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Stone-look top and timber base",
+            "ar": "سطح بمظهر الحجر وقاعدة خشبية"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "110 × 70 × 38 cm",
+            "ar": "١١٠ × ٧٠ × ٣٨ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Natural oak tone",
+            "ar": "درجة خشب البلوط الطبيعي"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Top colour and size",
+            "ar": "لون السطح ومقاسه"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 850,
+      "demo_stock": 5,
+      "images": [
+        {
+          "file": "product-indoor-coffee-table.webp",
+          "alt": {
+            "en": "Low sculptural coffee table in front of a sofa",
+            "ar": "طاولة قهوة منخفضة بتصميم نحتي أمام أريكة"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-IND-003",
+      "slug": "upholstered-ottoman",
+      "category": "indoor-furniture",
+      "name": {
+        "en": "Upholstered Ottoman",
+        "ar": "مسند قدم منجد"
+      },
+      "description": {
+        "en": "A soft companion piece for a lounge arrangement.",
+        "ar": "قطعة منجدة تكمل تنسيق مساحة الجلوس."
+      },
+      "image": "product-indoor-ottoman.webp",
+      "alt": {
+        "en": "Upholstered ottoman beside a sofa and coffee table",
+        "ar": "مسند قدم منجد بجانب أريكة وطاولة قهوة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Fabric upholstery and foam",
+            "ar": "تنجيد قماشي وحشوة إسفنجية"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "75 × 60 × 40 cm",
+            "ar": "٧٥ × ٦٠ × ٤٠ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Warm cream",
+            "ar": "كريمي دافئ"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Upholstery colour",
+            "ar": "لون التنجيد"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 570,
+      "demo_stock": 7,
+      "images": [
+        {
+          "file": "product-indoor-ottoman.webp",
+          "alt": {
+            "en": "Upholstered ottoman beside a sofa and coffee table",
+            "ar": "مسند قدم منجد بجانب أريكة وطاولة قهوة"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-OUT-002",
+      "slug": "outdoor-lounge-armchair",
+      "category": "outdoor-furniture",
+      "name": {
+        "en": "Outdoor Lounge Armchair",
+        "ar": "كرسي استرخاء خارجي"
+      },
+      "description": {
+        "en": "Relaxed armchair seating for an outdoor setting.",
+        "ar": "كرسي استرخاء لمساحة خارجية."
+      },
+      "image": "product-outdoor-armchair.webp",
+      "alt": {
+        "en": "Outdoor armchairs on a sunny terrace",
+        "ar": "كراسي استرخاء خارجية على شرفة مشمسة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Aluminium, woven rope and outdoor fabric",
+            "ar": "ألمنيوم وحبال منسوجة وقماش خارجي"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "82 × 78 × 76 cm",
+            "ar": "٨٢ × ٧٨ × ٧٦ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Sand and charcoal",
+            "ar": "رملي وفحمي"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Cushion fabric and frame colour",
+            "ar": "قماش الوسائد ولون الهيكل"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 1250,
+      "demo_stock": 8,
+      "images": [
+        {
+          "file": "product-outdoor-armchair.webp",
+          "alt": {
+            "en": "Outdoor armchairs on a sunny terrace",
+            "ar": "كراسي استرخاء خارجية على شرفة مشمسة"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-OUT-003",
+      "slug": "round-outdoor-table",
+      "category": "outdoor-furniture",
+      "name": {
+        "en": "Round Outdoor Table",
+        "ar": "طاولة خارجية مستديرة"
+      },
+      "description": {
+        "en": "A compact round table for a terrace setting.",
+        "ar": "طاولة مستديرة مدمجة للشرفة."
+      },
+      "image": "product-outdoor-round-table.webp",
+      "alt": {
+        "en": "Round outdoor table between lounge chairs",
+        "ar": "طاولة خارجية مستديرة بين كراسي الجلوس"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Aluminium and compact laminate",
+            "ar": "ألمنيوم ولامينيت مضغوط"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "Ø 70 × 42 cm",
+            "ar": "قطر ٧٠ × ارتفاع ٤٢ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Bronze brown",
+            "ar": "بني برونزي"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Diameter and finish",
+            "ar": "القطر والتشطيب"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 1450,
+      "demo_stock": 6,
+      "images": [
+        {
+          "file": "product-outdoor-round-table.webp",
+          "alt": {
+            "en": "Round outdoor table between lounge chairs",
+            "ar": "طاولة خارجية مستديرة بين كراسي الجلوس"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-OFF-002",
+      "slug": "executive-office-chair",
+      "category": "office-furniture",
+      "name": {
+        "en": "Executive Office Chair",
+        "ar": "كرسي مكتب تنفيذي"
+      },
+      "description": {
+        "en": "Supportive seating for an office workspace.",
+        "ar": "مقعد مناسب لمساحة العمل المكتبية."
+      },
+      "image": "product-office-chair.webp",
+      "alt": {
+        "en": "Office chair behind a large work desk",
+        "ar": "كرسي مكتب خلف طاولة عمل كبيرة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Upholstery and metal base",
+            "ar": "تنجيد وقاعدة معدنية"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "65 × 67 × 110 cm",
+            "ar": "٦٥ × ٦٧ × ١١٠ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Charcoal black",
+            "ar": "أسود فحمي"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Upholstery colour",
+            "ar": "لون التنجيد"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 1450,
+      "demo_stock": 6,
+      "images": [
+        {
+          "file": "product-office-chair.webp",
+          "alt": {
+            "en": "Office chair behind a large work desk",
+            "ar": "كرسي مكتب خلف طاولة عمل كبيرة"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-OFF-003",
+      "slug": "office-guest-chair",
+      "category": "office-furniture",
+      "name": {
+        "en": "Office Guest Chair",
+        "ar": "كرسي ضيوف للمكتب"
+      },
+      "description": {
+        "en": "Guest seating for meetings and reception areas.",
+        "ar": "مقاعد للضيوف في الاجتماعات والاستقبال."
+      },
+      "image": "product-office-guest-chair.webp",
+      "alt": {
+        "en": "Two guest chairs in front of an office desk",
+        "ar": "كرسيان للضيوف أمام طاولة مكتب"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Upholstered fabric and metal",
+            "ar": "قماش منجد ومعدن"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "60 × 62 × 82 cm",
+            "ar": "٦٠ × ٦٢ × ٨٢ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Taupe and black",
+            "ar": "رمادي مائل للبني وأسود"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Fabric and frame colour",
+            "ar": "لون القماش والهيكل"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 720,
+      "demo_stock": 9,
+      "images": [
+        {
+          "file": "product-office-guest-chair.webp",
+          "alt": {
+            "en": "Two guest chairs in front of an office desk",
+            "ar": "كرسيان للضيوف أمام طاولة مكتب"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-CUS-002",
+      "slug": "curved-lounge-chair-concept",
+      "category": "custom-furniture",
+      "name": {
+        "en": "Curved Lounge Chair Concept",
+        "ar": "تصور لكرسي استرخاء منحني"
+      },
+      "description": {
+        "en": "A softly curved seat for a tailored interior.",
+        "ar": "مقعد منحني لمساحة داخلية مصممة حسب الطلب."
+      },
+      "image": "product-custom-lounge-chair.webp",
+      "alt": {
+        "en": "Curved lounge chair in a warm interior",
+        "ar": "كرسي استرخاء منحني في مساحة داخلية دافئة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Upholstery and timber frame",
+            "ar": "تنجيد وهيكل خشبي"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "90 × 85 × 77 cm",
+            "ar": "٩٠ × ٨٥ × ٧٧ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Soft ivory",
+            "ar": "عاجي ناعم"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Fabric and size",
+            "ar": "نوع القماش والمقاس"
+          }
+        }
+      ],
+      "price_aed_incl_vat": null,
+      "demo_stock": null,
+      "images": [
+        {
+          "file": "product-custom-lounge-chair.webp",
+          "alt": {
+            "en": "Curved lounge chair in a warm interior",
+            "ar": "كرسي استرخاء منحني في مساحة داخلية دافئة"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAMPLE-CUS-003",
+      "slug": "low-sideboard-concept",
+      "category": "custom-furniture",
+      "name": {
+        "en": "Low Sideboard Concept",
+        "ar": "تصور لخزانة جانبية منخفضة"
+      },
+      "description": {
+        "en": "Low-profile storage for a considered interior.",
+        "ar": "وحدة تخزين منخفضة لمساحة داخلية منسقة."
+      },
+      "image": "product-custom-sideboard.webp",
+      "alt": {
+        "en": "Low wooden sideboard in a furnished interior",
+        "ar": "خزانة جانبية منخفضة في مساحة داخلية مفروشة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Wood veneer and engineered wood",
+            "ar": "قشرة خشبية وخشب مصنع"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "160 × 45 × 75 cm",
+            "ar": "١٦٠ × ٤٥ × ٧٥ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Walnut tone",
+            "ar": "درجة الجوز"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Dimensions and door layout",
+            "ar": "الأبعاد وتوزيع الأبواب"
+          }
+        }
+      ],
+      "price_aed_incl_vat": null,
+      "demo_stock": null,
+      "images": [
+        {
+          "file": "product-custom-sideboard.webp",
+          "alt": {
+            "en": "Low wooden sideboard in a furnished interior",
+            "ar": "خزانة جانبية منخفضة في مساحة داخلية مفروشة"
+          }
+        }
+      ]
+    },
+    {
+      "id": "SAMPLE-IND-004",
+      "slug": "dining-table-set",
+      "category": "indoor-furniture",
+      "name": {
+        "en": "Dining Table Set",
+        "ar": "طقم طاولة طعام"
+      },
+      "description": {
+        "en": "A dining table and upholstered chairs for shared meals and gatherings.",
+        "ar": "طاولة طعام وكراسٍ منجدة للوجبات والتجمعات."
+      },
+      "image": "product-indoor-dining-set.webp",
+      "alt": {
+        "en": "Oak dining table with six upholstered chairs in a bright interior",
+        "ar": "طاولة طعام خشبية مع ستة كراسٍ منجدة في مساحة داخلية مضيئة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Oak-look timber and upholstered fabric",
+            "ar": "خشب بمظهر البلوط وقماش منجد"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "200 × 90 × 75 cm (table)",
+            "ar": "٢٠٠ × ٩٠ × ٧٥ سم (الطاولة)"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Natural oak and oatmeal",
+            "ar": "بلوط طبيعي ولون شوفاني"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Table size and upholstery colour",
+            "ar": "حجم الطاولة ولون التنجيد"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 4600,
+      "demo_stock": 4,
+      "images": [
+        {
+          "file": "product-indoor-dining-set.webp",
+          "alt": {
+            "en": "Oak dining table with six upholstered chairs in a bright interior",
+            "ar": "طاولة طعام خشبية مع ستة كراسٍ منجدة في مساحة داخلية مضيئة"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-OUT-004",
+      "slug": "outdoor-daybed",
+      "category": "outdoor-furniture",
+      "name": {
+        "en": "Outdoor Daybed",
+        "ar": "سرير استرخاء خارجي"
+      },
+      "description": {
+        "en": "A generous cushioned daybed for terrace lounging.",
+        "ar": "سرير استرخاء بوسائد واسعة للشرفات."
+      },
+      "image": "product-outdoor-daybed.webp",
+      "alt": {
+        "en": "Cushioned daybed with timber frame on a sunlit terrace",
+        "ar": "سرير استرخاء بوسائد وهيكل خشبي على شرفة مشمسة"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Teak-look timber and outdoor fabric",
+            "ar": "خشب بمظهر الساج وقماش خارجي"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "210 × 160 × 75 cm",
+            "ar": "٢١٠ × ١٦٠ × ٧٥ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Warm timber and sand",
+            "ar": "خشب دافئ ولون رملي"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Cushion fabric and frame finish",
+            "ar": "قماش الوسائد وتشطيب الهيكل"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 3800,
+      "demo_stock": 3,
+      "images": [
+        {
+          "file": "product-outdoor-daybed.webp",
+          "alt": {
+            "en": "Cushioned daybed with timber frame on a sunlit terrace",
+            "ar": "سرير استرخاء بوسائد وهيكل خشبي على شرفة مشمسة"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-OFF-004",
+      "slug": "office-meeting-table",
+      "category": "office-furniture",
+      "name": {
+        "en": "Office Meeting Table",
+        "ar": "طاولة اجتماعات مكتبية"
+      },
+      "description": {
+        "en": "A spacious meeting table for collaborative workspaces.",
+        "ar": "طاولة اجتماعات واسعة لمساحات العمل المشتركة."
+      },
+      "image": "product-office-meeting-table.webp",
+      "alt": {
+        "en": "Walnut meeting table and upholstered chairs in a contemporary office",
+        "ar": "طاولة اجتماعات جوزية وكراسٍ منجدة في مكتب عصري"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Walnut-look veneer and metal base",
+            "ar": "قشرة بمظهر الجوز وقاعدة معدنية"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "260 × 110 × 75 cm",
+            "ar": "٢٦٠ × ١١٠ × ٧٥ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Walnut and matte black",
+            "ar": "جوزي وأسود مطفي"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Table length and finish",
+            "ar": "طول الطاولة والتشطيب"
+          }
+        }
+      ],
+      "price_aed_incl_vat": 5600,
+      "demo_stock": 3,
+      "images": [
+        {
+          "file": "product-office-meeting-table.webp",
+          "alt": {
+            "en": "Walnut meeting table and upholstered chairs in a contemporary office",
+            "ar": "طاولة اجتماعات جوزية وكراسٍ منجدة في مكتب عصري"
+          }
+        }
+      ],
+      "demo_options": {
+        "size": [
+          {
+            "code": "standard",
+            "name": {
+              "en": "As shown",
+              "ar": "كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "large",
+            "name": {
+              "en": "Larger size",
+              "ar": "مقاس أكبر"
+            },
+            "price_delta_aed": 250
+          }
+        ],
+        "finish": [
+          {
+            "code": "shown",
+            "name": {
+              "en": "Finish as shown",
+              "ar": "التشطيب كما هو معروض"
+            },
+            "price_delta_aed": 0
+          },
+          {
+            "code": "dark",
+            "name": {
+              "en": "Darker finish",
+              "ar": "تشطيب أغمق"
+            },
+            "price_delta_aed": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "SAMPLE-CUS-004",
+      "slug": "modular-display-shelving-concept",
+      "category": "custom-furniture",
+      "name": {
+        "en": "Modular Display Shelving Concept",
+        "ar": "تصور رفوف عرض معيارية"
+      },
+      "description": {
+        "en": "A shelving concept arranged around display and storage needs.",
+        "ar": "تصور رفوف يراعي احتياجات العرض والتخزين."
+      },
+      "image": "product-custom-display-shelving.webp",
+      "alt": {
+        "en": "Floor-to-ceiling modular timber shelves in a warm contemporary room",
+        "ar": "رفوف خشبية معيارية تمتد من الأرض إلى السقف في غرفة عصرية"
+      },
+      "specifications": [
+        {
+          "label": {
+            "en": "Material",
+            "ar": "المادة"
+          },
+          "value": {
+            "en": "Oak-look panels and metal supports",
+            "ar": "ألواح بمظهر البلوط ودعامات معدنية"
+          }
+        },
+        {
+          "label": {
+            "en": "Dimensions",
+            "ar": "الأبعاد"
+          },
+          "value": {
+            "en": "320 × 35 × 240 cm",
+            "ar": "٣٢٠ × ٣٥ × ٢٤٠ سم"
+          }
+        },
+        {
+          "label": {
+            "en": "Finish",
+            "ar": "التشطيب"
+          },
+          "value": {
+            "en": "Natural oak and bronze",
+            "ar": "بلوط طبيعي وبرونزي"
+          }
+        },
+        {
+          "label": {
+            "en": "Customisation",
+            "ar": "التخصيص"
+          },
+          "value": {
+            "en": "Module layout and overall dimensions",
+            "ar": "توزيع الوحدات والأبعاد الكلية"
+          }
+        }
+      ],
+      "price_aed_incl_vat": null,
+      "demo_stock": null,
+      "images": [
+        {
+          "file": "product-custom-display-shelving.webp",
+          "alt": {
+            "en": "Floor-to-ceiling modular timber shelves in a warm contemporary room",
+            "ar": "رفوف خشبية معيارية تمتد من الأرض إلى السقف في غرفة عصرية"
+          }
+        }
+      ]
+    }
+  ]
+}
